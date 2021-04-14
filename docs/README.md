@@ -1,5 +1,7 @@
 # 关于 MorTnon
 
+[![star](https://gitee.com/mortise-and-tenon/mortnon/badge/star.svg?theme=dark)](https://gitee.com/mortise-and-tenon/mortnon/stargazers) [![fork](https://gitee.com/mortise-and-tenon/mortnon/badge/fork.svg?theme=dark)](https://gitee.com/mortise-and-tenon/mortnon/members)
+
 卯榫，英文名 `mortise and tenon`, `MorTnon` 则是两个单词的拼写合并。
 
 ?> 卯榫/榫卯，在维基百科上的解释为榫头卯眼的简称，是一种传统木工中接合两个或多个构件的方式。其中构件中的凸出部分称为榫（榫头，也称作笋头），凹入部分则称为卯（卯眼，也称作卯口、榫眼等）。 2009年，中國藝術研究院建築研究所申報的「中國傳統木結構營造技藝」入選聯合國人類非物質文化遺產，其中有提到榫卯技術。
